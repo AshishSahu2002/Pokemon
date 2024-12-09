@@ -8,6 +8,8 @@ Implemented responsive styling using grid layouts and hover effects.
 Applied vibrant gradients for a playful, Pokémon-inspired theme.
 Backend Logic (JavaScript)
 Data Source: Integrated the PokéAPI to fetch Pokémon data.
+
+
 Functions:
 loadPokemon(): Loads the initial list of 50 Pokémon.
 displayPokemonList(): Dynamically creates Pokémon cards with images and names.
